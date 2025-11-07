@@ -137,4 +137,5 @@ function Signal:GetConnectionCount()
 	return count
 end
 
+
 return Signal

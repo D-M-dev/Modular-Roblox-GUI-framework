@@ -25,7 +25,7 @@ A solution for creating complex user interfaces in Roblox without having to manu
 2. Create a `ModuleScript` and require the framework:
 
 ```lua
-local UIFramework = require(game.ReplicatedStorage.RobloxUIFramework)
+local UIFramework = require(game.ReplicatedStorage.RobloxUIFramework.Init)
 
 -- Initialize the framework
 local UI = UIFramework.new()
@@ -46,7 +46,7 @@ end)
 ### Basic Example - Button Panel
 
 ```lua
-local UIFramework = require(game.ReplicatedStorage.RobloxUIFramework)
+local UIFramework = require(game.ReplicatedStorage.RobloxUIFramework.Init)
 local UI = UIFramework.new()
 
 -- Create main panel

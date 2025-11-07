@@ -2,8 +2,7 @@
 
 **A modern, modular GUI framework for Roblox Studio**
 
-A solution for creating complex user interfaces in Roblox without having to manually create GUI elements.
-
+A solution for creating complex user interfaces in Roblox without having to manually create GUI elements. Notice that comments in modules, scripts are in Czech, I will translate it in a few days...
 ## ✨ Main Features
 
 - 🧩 **Fully Modular Architecture** - each component is a separate module
